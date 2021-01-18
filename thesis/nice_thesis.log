@@ -1,0 +1,4323 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.1.17)  18 JAN 2021 14:53
+entering extended mode
+**c:/Users/fmill/Documents/UoE/2021Thesis/phd_thesis/thesis/nice_thesis.tex
+(c:/Users/fmill/Documents/UoE/2021Thesis/phd_thesis/thesis/nice_thesis.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03> (../common/definitions.tex
+\@glossaryfile=\write3
+\openout3 = `nice_thesis.glo'.
+
+
+Writing glossary file nice_thesis.glo 
+../common/definitions.tex:6: Undefined control sequence.
+l.6 \DeclareMathOperator
+                        {\Ber}{Ber}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:6: Undefined control sequence.
+l.6 \DeclareMathOperator{\Ber
+                             }{Ber}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../common/definitions.tex:6: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \DeclareMathOperator{\Ber}{B
+                                er}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+../common/definitions.tex:7: Undefined control sequence.
+l.7 \DeclareMathOperator
+                        {\Bei}{Bei}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:7: Undefined control sequence.
+l.7 \DeclareMathOperator{\Bei
+                             }{Bei}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+../common/definitions.tex:8: Undefined control sequence.
+l.8 \DeclareMathOperator
+                        {\Ker}{Ker}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:8: Undefined control sequence.
+l.8 \DeclareMathOperator{\Ker
+                             }{Ker}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no K in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+../common/definitions.tex:9: Undefined control sequence.
+l.9 \DeclareMathOperator
+                        {\Kei}{Kei}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:9: Undefined control sequence.
+l.9 \DeclareMathOperator{\Kei
+                             }{Kei}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no K in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+../common/definitions.tex:10: Undefined control sequence.
+l.10 \DeclareMathOperator
+                         {\integer}{int}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:10: Undefined control sequence.
+l.10 \DeclareMathOperator{\integer
+                                  }{int}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+../common/definitions.tex:11: Undefined control sequence.
+l.11 \DeclareMathOperator
+                         {\floor}{floor}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:11: Undefined control sequence.
+l.11 \DeclareMathOperator{\floor
+                                }{floor}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+../common/definitions.tex:12: Undefined control sequence.
+l.12 \DeclareMathOperator
+                         {\var}{var}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:12: Undefined control sequence.
+l.12 \DeclareMathOperator{\var
+                              }{var}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+../common/definitions.tex:13: Undefined control sequence.
+l.13 \DeclareMathOperator
+                         {\const}{constant}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:13: Undefined control sequence.
+l.13 \DeclareMathOperator{\const
+                                }{constant}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+../common/definitions.tex:14: Undefined control sequence.
+l.14 \DeclareMathOperator
+                         {\maxval}{max}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:14: Undefined control sequence.
+l.14 \DeclareMathOperator{\maxval
+                                 }{max}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no x in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--17
+[]
+ []
+
+
+../common/definitions.tex:19: LaTeX Error: Command \captionfont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \renewcommand{\captionfont}
+                                {\sffamily}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../common/definitions.tex:20: LaTeX Error: Command \captionlabelfont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \renewcommand{\captionlabelfont}
+                                     {\bf}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+../common/definitions.tex:53: Undefined control sequence.
+<argument> \undefinedpagestyle 
+                               
+l.53 \pagestyle{fancy}
+                      % Used when using fancyhdr.sty
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../common/definitions.tex:54: LaTeX Error: Command \headrulewidth undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \renewcommand{\headrulewidth}
+                                  {0.4pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../common/definitions.tex:55: LaTeX Error: Command \footrulewidth undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \renewcommand{\footrulewidth}
+                                  {0pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../common/definitions.tex:56: LaTeX Error: Command \chaptermark undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \renewcommand{\chaptermark}
+                                [1]{%
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+../common/definitions.tex:65: Undefined control sequence.
+l.65 \fancyhead
+               [LE,RO]{\thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../common/definitions.tex:65: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \fancyhead[
+                LE,RO]{\thepage}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no ] in font nullfont!
+../common/definitions.tex:65: Undefined control sequence.
+l.65 \fancyhead[LE,RO]{\thepage
+                               }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:66: Undefined control sequence.
+l.66 \fancyhead
+               [LO]{\sl \leftmark}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no ] in font nullfont!
+../common/definitions.tex:66: Undefined control sequence.
+l.66 \fancyhead[LO]{\sl
+                        \leftmark}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:67: Undefined control sequence.
+l.67 \fancyhead
+               [RE]{\sl \rightmark}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no ] in font nullfont!
+../common/definitions.tex:67: Undefined control sequence.
+l.67 \fancyhead[RE]{\sl
+                        \rightmark}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../common/definitions.tex:68: Undefined control sequence.
+l.68 \fancyfoot
+               {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 65--69
+[]
+ []
+
+) (C:\Users\fmill\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box47
+) (c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\nice_thesis.aux)
+\openout1 = `nice_thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+
+c:/Users/fmill/Documents/UoE/2021Thesis/phd_thesis/thesis/nice_thesis.tex:4: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/fmill/Documents/UoE/2021Thesis/phd_thesis/thesis/nice_thesis.tex:5: Undefined control sequence.
+l.5 \newboolean
+               {edthesis}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/fmill/Documents/UoE/2021Thesis/phd_thesis/thesis/nice_thesis.tex:6: Undefined control sequence.
+l.6 \setboolean
+               {edthesis}{false}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:4: Undefined control sequence.
+l.4 \ifthenelse
+               {\boolean{edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:4: Undefined control sequence.
+l.4 \ifthenelse{\boolean
+                        {edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:5: LaTeX Error: Environment prefacepart undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 {  \begin{prefacepart}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:7: Extra }, or forgotten \endgroup.
+l.7 }
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:9: Undefined control sequence.
+l.9   \frontmatter
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(../preface/title.tex
+../preface/title.tex:1: Undefined control sequence.
+l.1 \ifthenelse
+               {\boolean{edthesis}}{\begin{singlespace}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../preface/title.tex:1: Undefined control sequence.
+l.1 \ifthenelse{\boolean
+                        {edthesis}}{\begin{singlespace}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../preface/title.tex:1: LaTeX Error: Environment singlespace undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...lse{\boolean{edthesis}}{\begin{singlespace}
+                                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../preface/title.tex:1: Extra }, or forgotten \endgroup.
+l.1 ...se{\boolean{edthesis}}{\begin{singlespace}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+../preface/title.tex:8: Undefined control sequence.
+l.8 { \Huge
+            Modular Cell-free systems and their adaptable logic as core proc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../preface/title.tex:11: Undefined control sequence.
+l.11 {\Large
+             Felipe A. Millacura \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../preface/title.tex:17: Undefined control sequence.
+<argument> \includegraphics 
+                            [width=0.5\textwidth ]{../preface/UoECentredLogo...
+l.17 ..../preface/UoECentredLogoCMYKv1160215.png}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../preface/title.tex:17: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.17 ..../preface/UoECentredLogoCMYKv1160215.png}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+../preface/title.tex:17: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.17 ..../preface/UoECentredLogoCMYKv1160215.png}}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+../preface/title.tex:26: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/fmill/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+../preface/title.tex:29: Undefined control sequence.
+l.29 \ifthenelse
+                {\boolean{edthesis}}{\end{singlespace}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../preface/title.tex:29: Undefined control sequence.
+l.29 \ifthenelse{\boolean
+                         {edthesis}}{\end{singlespace}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../preface/title.tex:29: LaTeX Error: \begin{document} ended by \end{singlespace}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 ...else{\boolean{edthesis}}{\end{singlespace}
+                                                  {}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../preface/title.tex:29: Missing } inserted.
+<inserted text> 
+                }
+l.29 ...else{\boolean{edthesis}}{\end{singlespace}
+                                                  {}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) (../preface/declaration.tex
+../preface/declaration.tex:1: Undefined control sequence.
+l.1 \chapter
+            {Declaration}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--5
+
+ []
+
+
+../preface/declaration.tex:13: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \cleardoublepage
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2])
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:14: Undefined control sequence.
+l.14 \chapter
+             {Abstract}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(../preface/abstract.tex)
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:17: Undefined control sequence.
+l.17 \chapter
+             {Lay Summary}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(../preface/layabstract.tex) (../preface/acknowledgements.tex
+../preface/acknowledgements.tex:1: Undefined control sequence.
+l.1 \chapter
+            {Acknowledgements}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (../preface/agradecimientos.tex
+../preface/agradecimientos.tex:1: Undefined control sequence.
+l.1 \chapter
+            {Agradecimientos}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:23: Undefined control sequence.
+l.23 \ifthenelse
+                {\boolean{edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:23: Undefined control sequence.
+l.23 \ifthenelse{\boolean
+                         {edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:25: LaTeX Error: Environment singlespace undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25   \begin{singlespace}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:27: Undefined control sequence.
+l.27 \tableofcontents
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:28: Undefined control sequence.
+l.28 \listoftables
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:29: Undefined control sequence.
+l.29 \listoffigures
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:30: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[3
+
+]
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:33: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \cleardoublepage
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[4]
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:38: Undefined control sequence.
+l.38 \ifthenelse
+                {\boolean{edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:38: Undefined control sequence.
+l.38 \ifthenelse{\boolean
+                         {edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:40: LaTeX Error: \begin{document} ended by \end{singlespace}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40   \end{singlespace}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:40: Missing } inserted.
+<inserted text> 
+                }
+l.40   \end{singlespace}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:44: Undefined control sequence.
+l.44 \ifthenelse
+                {\boolean{edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:44: Undefined control sequence.
+l.44 \ifthenelse{\boolean
+                         {edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:46: LaTeX Error: \begin{document} ended by \end{prefacepart}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46    \end{prefacepart}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:46: Missing } inserted.
+<inserted text> 
+                }
+l.46    \end{prefacepart}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:46: Missing } inserted.
+<inserted text> 
+                }
+l.46    \end{prefacepart}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:49: Undefined control sequence.
+l.49 {\mainmatter
+                 }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(../introduction/chapter//introduction.tex
+../introduction/chapter//introduction.tex:1: Undefined control sequence.
+l.1 \chapter
+            {General Overview}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `kwon2015high' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation `carlson2012cell' on page 1 undefined on input line 14.
+
+
+LaTeX Warning: Citation `bernhard2013cell' on page 1 undefined on input line 14.
+
+
+LaTeX Warning: Citation `kwon2015high' on page 1 undefined on input line 14.
+
+
+LaTeX Warning: Citation `silva2008mining' on page 1 undefined on input line 58.
+
+) (../chapter1/chapter//chapter1.tex
+../chapter1/chapter//chapter1.tex:1: Undefined control sequence.
+l.1 \chapter
+            {ParAlleL: A Novel Population-Based Approach to Biological Logic...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter1/chapter//chapter1.tex:2: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 
+    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+
+]
+../chapter1/chapter//chapter1.tex:3: Undefined control sequence.
+l.3 \section
+            {\textbf{Abstract }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:5: Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.5 ...c engineering.\footnote{testing a footnote}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:5: Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.5 ...c engineering.\footnote{testing a footnote}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:7: Undefined control sequence.
+l.7 \section
+            {\textbf{Introduction }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `brenner2018synthetic' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation `andrianantoandro2006synthetic' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation `nielsen2014multi' on page 2 undefined on input line 11.
+
+
+LaTeX Warning: Citation `roquet2016synthetic' on page 2 undefined on input line 11.
+
+
+LaTeX Warning: Citation `brenner2018synthetic' on page 2 undefined on input line 11.
+
+
+LaTeX Warning: Citation `regot2011distributed' on page 2 undefined on input line 11.
+
+
+LaTeX Warning: Citation `macia2017synthetic' on page 2 undefined on input line 11.
+
+
+LaTeX Warning: Citation `shipman2017crispr' on page 2 undefined on input line 11.
+
+
+LaTeX Warning: Citation `macia2016implementation' on page 2 undefined on input line 11.
+
+
+../chapter1/chapter//chapter1.tex:12: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2]
+../chapter1/chapter//chapter1.tex:15: Undefined control sequence.
+l.15 \section
+             {\textbf{Methodology }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:17: Undefined control sequence.
+l.17 \subsection
+                {\textbf{Reagents and Stock Solution Preparations}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:21: Undefined control sequence.
+l.21 \subsection
+                {\textbf{Generation of Subcircuit Cells}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter1/chapter//chapter1.tex:23: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...d Biological Parts) and selected on 100 μ
+                                                  g/ml carbenicilin (Am) or ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+../chapter1/chapter//chapter1.tex:23: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...d on 100 μg/ml carbenicilin (Am) or 20 μ
+                                                  g/ml chloramphenicol (Ch),...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Citation `chung1989one' on page 3 undefined on input line 23.
+
+
+../chapter1/chapter//chapter1.tex:23: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...iotic (Am or Ch) and the addition of 10 μ
+                                                  g/ml Tetracycline (Tc) or ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+../chapter1/chapter//chapter1.tex:23: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...on of 10 μg/ml Tetracycline (Tc) or 50 μ
+                                                  g/ml kanamycin (Km), obtai...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Citation `silva2012standard' on page 3 undefined on input line 25.
+
+
+LaTeX Warning: Citation `keller2011methods' on page 3 undefined on input line 25.
+
+
+../chapter1/chapter//chapter1.tex:25: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...e 2-bit antibiotic combinations plus 10 μ
+                                                  g/ml gentamicin (Gm) or 50...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+../chapter1/chapter//chapter1.tex:25: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...ns plus 10 μg/ml gentamicin (Gm) or 50 μ
+                                                  g/ml spectinomycin (Sm). T...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+../chapter1/chapter//chapter1.tex:27: Undefined control sequence.
+l.27 \subsection
+                {\textbf{Three-Bit Logic Operations}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter1/chapter//chapter1.tex:29: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 ...culating cells (1:100) in LB broth (100 μ
+                                                  L) supplemented with 1\%w/...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+../chapter1/chapter//chapter1.tex:31: Undefined control sequence.
+l.31 \section
+             {\textbf{Results}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter1/chapter//chapter1.tex:36: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[3]
+
+../chapter1/chapter//chapter1.tex:37: LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \begin{figure}
+                   [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter1/chapter//chapter1.tex:39: Undefined control sequence.
+l.39   \includegraphics
+                       [width=0.7\textwidth]{\dir/figs/fbioe-07-00046-g001.jpg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:39: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.39   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/fbioe-07-00046-g001.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+../chapter1/chapter//chapter1.tex:39: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.39   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/fbioe-07-00046-g001.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+../chapter1/chapter//chapter1.tex:40: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40   \caption
+               {ParAlleL responding to 1 bit, 2 bit, and 3 bit inputs. ParAl...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter1/chapter//chapter1.tex:42: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../chapter1/chapter//chapter1.tex:44: LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \begin{figure}
+                   [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter1/chapter//chapter1.tex:46: Undefined control sequence.
+l.46   \includegraphics
+                       [width=0.7\textwidth]{\dir/figs/fbioe-07-00046-g002.jpg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:46: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.46   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/fbioe-07-00046-g002.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+../chapter1/chapter//chapter1.tex:46: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.46   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/fbioe-07-00046-g002.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+../chapter1/chapter//chapter1.tex:47: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47   \caption
+               {Digital calculator-like display using 3 bit ParAlleL. Figure...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter1/chapter//chapter1.tex:49: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../chapter1/chapter//chapter1.tex:53: LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \begin{figure}
+                   [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter1/chapter//chapter1.tex:55: Undefined control sequence.
+l.55   \includegraphics
+                       [width=0.7\textwidth]{\dir/figs/fbioe-07-00046-g003.jpg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:55: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.55   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/fbioe-07-00046-g003.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+../chapter1/chapter//chapter1.tex:55: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.55   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/fbioe-07-00046-g003.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+../chapter1/chapter//chapter1.tex:56: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56   \caption
+               {Full adder and subtractor using the 3 bit ParAlleL system. T...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter1/chapter//chapter1.tex:58: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter1/chapter//chapter1.tex:61: Undefined control sequence.
+l.61 \section
+             {\textbf{Conclusions/Discussion}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter1/chapter//chapter1.tex:67: LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \begin{figure}
+                   [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter1/chapter//chapter1.tex:69: Undefined control sequence.
+l.69   \includegraphics
+                       [width=0.7\textwidth]{\dir/figs/plasmids.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:69: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.69   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/plasmids.png}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+../chapter1/chapter//chapter1.tex:69: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.69   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/plasmids.png}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+../chapter1/chapter//chapter1.tex:70: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70   \caption
+               {Plasmids carried by subcircuit cells. Plasmids carrying anti...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter1/chapter//chapter1.tex:72: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Citation `macia2016implementation' on page 4 undefined on input line 74.
+
+
+LaTeX Warning: Citation `macia2016implementation' on page 4 undefined on input line 74.
+
+
+LaTeX Warning: Citation `silva2008mining' on page 4 undefined on input line 74.
+
+
+LaTeX Warning: Citation `siuti2013synthetic' on page 4 undefined on input line 74.
+
+
+LaTeX Warning: Citation `macia2016implementation' on page 4 undefined on input line 74.
+
+
+LaTeX Warning: Citation `macia2017synthetic' on page 4 undefined on input line 74.
+
+
+../chapter1/chapter//chapter1.tex:75: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[4]
+
+../chapter1/chapter//chapter1.tex:76: LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \begin{figure}
+                   [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter1/chapter//chapter1.tex:78: Undefined control sequence.
+l.78   \includegraphics
+                       [width=0.7\textwidth]{\dir/figs/growth.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:78: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.78   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/growth.png}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+../chapter1/chapter//chapter1.tex:78: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.78   \includegraphics[width=0.7\textwidth]
+                                            {\dir/figs/growth.png}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+../chapter1/chapter//chapter1.tex:79: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79   \caption
+               {ParAlleL subcircuit cell growth curves. Growth curves of the...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter1/chapter//chapter1.tex:79: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ...otic combinations. A: Carbenicilin (100 μ
+                                                  g/mL), C: Chloramphenicol ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+../chapter1/chapter//chapter1.tex:79: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ...in (100 μg/mL), C: Chloramphenicol (20 μ
+                                                  g/mL) T: Tetracycline (10 ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+../chapter1/chapter//chapter1.tex:79: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ...henicol (20 μg/mL) T: Tetracycline (10 μ
+                                                  g/mL), K: Kanamycin (50 μ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+../chapter1/chapter//chapter1.tex:79: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ...racycline (10 μg/mL), K: Kanamycin (50 μ
+                                                  g/mL), G:
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+../chapter1/chapter//chapter1.tex:80: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 Gentamicin (10 μ
+                      g/mL). S: Spectinomycin (50 μg/mL). Overnight culture...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+../chapter1/chapter//chapter1.tex:80: Package inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...micin (10 μg/mL). S: Spectinomycin (50 μ
+                                                  g/mL). Overnight culture (...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+../chapter1/chapter//chapter1.tex:82: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter1/chapter//chapter1.tex:91: Undefined control sequence.
+l.91 \section
+             {\textbf{Data Availability}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:94: Undefined control sequence.
+l.94 \section
+             {\textbf{Acknowledgments}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter1/chapter//chapter1.tex:97: Undefined control sequence.
+l.97 \section
+             {\textbf{Supplementary Material}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (../chapter2/chapter//chapter2.tex
+../chapter2/chapter//chapter2.tex:1: Undefined control sequence.
+l.1 \chapter
+            {TXO: Transcription-Only genetic circuits as a novel cell-free a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (261.54153pt too wide) in paragraph at lines 99--2
+[]\OT1/cmr/m/n/10 The Sup-ple-men-tary Ma-te-rial for this ar-ti-cle can be found on-line at: https://www.frontiersin.org/articles/10.3389/fbioe.2019.00046/full#supplementary-
+ []
+
+../chapter2/chapter//chapter2.tex:3: Undefined control sequence.
+l.3 \section
+            {\textbf{Abstract }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:4: Undefined control sequence.
+l.4 \justifying
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:8: Undefined control sequence.
+l.8 \section
+            {\textbf{Introduction }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:9: Undefined control sequence.
+l.9 \justifying
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `1' on page 5 undefined on input line 10.
+
+
+LaTeX Warning: Citation `2' on page 5 undefined on input line 11.
+
+
+LaTeX Warning: Citation `3' on page 5 undefined on input line 11.
+
+
+LaTeX Warning: Citation `4' on page 5 undefined on input line 11.
+
+
+LaTeX Warning: Citation `5' on page 5 undefined on input line 11.
+
+
+../chapter2/chapter//chapter2.tex:12: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[5]
+
+LaTeX Warning: Citation `6' on page 6 undefined on input line 13.
+
+
+LaTeX Warning: Citation `7' on page 6 undefined on input line 15.
+
+
+LaTeX Warning: Citation `6' on page 6 undefined on input line 15.
+
+
+LaTeX Warning: Citation `8' on page 6 undefined on input line 15.
+
+
+LaTeX Warning: Citation `9' on page 6 undefined on input line 15.
+
+
+LaTeX Warning: Citation `10' on page 6 undefined on input line 15.
+
+
+LaTeX Warning: Citation `11' on page 6 undefined on input line 17.
+
+
+LaTeX Warning: Citation `12' on page 6 undefined on input line 19.
+
+
+LaTeX Warning: Citation `13' on page 6 undefined on input line 19.
+
+
+LaTeX Warning: Citation `14' on page 6 undefined on input line 19.
+
+
+LaTeX Warning: Citation `15' on page 6 undefined on input line 19.
+
+
+LaTeX Warning: Citation `16' on page 6 undefined on input line 19.
+
+
+LaTeX Warning: Citation `17' on page 6 undefined on input line 19.
+
+
+LaTeX Warning: Citation `18' on page 6 undefined on input line 19.
+
+
+LaTeX Warning: Citation `19' on page 6 undefined on input line 21.
+
+../chapter2/chapter//chapter2.tex:23: Undefined control sequence.
+l.23 \section
+             {\textbf{Methodology }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:25: Undefined control sequence.
+l.25 \subsection
+                *{Reagents and culture conditions}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:31: Undefined control sequence.
+l.31 \subsection
+                *{Strains and cell-free extract preparation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `20' on page 6 undefined on input line 33.
+
+
+../chapter2/chapter//chapter2.tex:36: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[6]
+../chapter2/chapter//chapter2.tex:37: Undefined control sequence.
+l.37 \subsection
+                *{Construction of RNA aptamers}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `table:01' on page 7 undefined on input line 39.
+
+
+LaTeX Warning: Reference `NAR-fig1' on page 7 undefined on input line 39.
+
+
+LaTeX Warning: Reference `table:01' on page 7 undefined on input line 40.
+
+
+../chapter2/chapter//chapter2.tex:43: LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \begin{figure*}
+                    [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:46: Undefined control sequence.
+l.46 \includegraphics
+                     [height=220px]{Figure-1ab.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:48: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \caption
+             {Schematic diagrams of TXO cell free system with minimal requir...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter2/chapter//chapter2.tex:50: LaTeX Error: \begin{document} ended by \end{figure*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \end{figure*}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:52: Undefined control sequence.
+l.52 \subsection
+                *{Biosensor transcriptional unit design}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `13' on page 7 undefined on input line 53.
+
+../chapter2/chapter//chapter2.tex:55: Undefined control sequence.
+l.55 \subsection
+                *{RNA aptamer expression and detection.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `12' on page 7 undefined on input line 57.
+
+
+LaTeX Warning: Citation `13' on page 7 undefined on input line 57.
+
+
+LaTeX Warning: Reference `table:01' on page 7 undefined on input line 58.
+
+
+LaTeX Warning: Reference `table:01' on page 7 undefined on input line 59.
+
+../chapter2/chapter//chapter2.tex:61: Undefined control sequence.
+l.61 \subsection
+                *{Heavy metal detection by TXO assays}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:68: Undefined control sequence.
+l.68 \section
+             {\textbf{Results}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:69: Undefined control sequence.
+l.69 \section
+             *{Results}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:70: Undefined control sequence.
+l.70 \subsection
+                *{Fluorogenic RNA aptamers and TXO systems}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:74: LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \begin{table}
+                  [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:75: Undefined control sequence.
+l.75 \tableparts
+                {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:76: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \caption
+             {RNA Aptamers and their respective characteristics
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+../chapter2/chapter//chapter2.tex:82: Undefined control sequence.
+l.82 \toprule
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:88: Undefined control sequence.
+<recently read> \colrule 
+                         
+l.88 \colrule
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `14' on page 7 undefined on input line 89.
+
+
+LaTeX Warning: Citation `21' on page 7 undefined on input line 91.
+
+
+LaTeX Warning: Citation `12' on page 7 undefined on input line 93.
+
+
+LaTeX Warning: Citation `13' on page 7 undefined on input line 95.
+
+
+LaTeX Warning: Citation `22' on page 7 undefined on input line 97.
+
+
+LaTeX Warning: Citation `12' on page 7 undefined on input line 99.
+
+
+LaTeX Warning: Citation `12' on page 7 undefined on input line 101.
+
+
+LaTeX Warning: Citation `12' on page 7 undefined on input line 103.
+
+../chapter2/chapter//chapter2.tex:105: Undefined control sequence.
+<recently read> \botrule 
+                         
+l.105 \botrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in alignment at lines 81--106
+[][][][][][]
+ []
+
+
+../chapter2/chapter//chapter2.tex:111: LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (44.90134pt too wide) in paragraph at lines 74--112
+[]  []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--112
+
+ []
+
+
+../chapter2/chapter//chapter2.tex:112: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[7]
+
+LaTeX Warning: Reference `table:01' on page 8 undefined on input line 113.
+
+
+LaTeX Warning: Reference `NAR-fig1' on page 8 undefined on input line 113.
+
+
+LaTeX Warning: Citation `21' on page 8 undefined on input line 113.
+
+
+LaTeX Warning: Reference `NAR-fig1' on page 8 undefined on input line 113.
+
+
+LaTeX Warning: Citation `21' on page 8 undefined on input line 113.
+
+
+LaTeX Warning: Reference `table:01' on page 8 undefined on input line 113.
+
+
+LaTeX Warning: Reference `NAR-fig2' on page 8 undefined on input line 115.
+
+
+LaTeX Warning: Reference `NAR-fig2' on page 8 undefined on input line 115.
+
+
+LaTeX Warning: Reference `NAR-fig2' on page 8 undefined on input line 116.
+
+
+LaTeX Warning: Reference `NAR-fig2' on page 8 undefined on input line 116.
+
+
+../chapter2/chapter//chapter2.tex:118: LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \begin{figure*}
+                     [ht]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:120: Undefined control sequence.
+l.120 \includegraphics
+                      [height=140px, width=150px]{Figure-2a.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:121: Undefined control sequence.
+l.121 \includegraphics
+                      [height=140px, width=220px]{Figure-2b.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:123: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123 \caption
+              {Fluorescent RNA aptamers expression. \textbf{(a)} Aptamers sh...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter2/chapter//chapter2.tex:126: LaTeX Error: \begin{document} ended by \end{figure*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \end{figure*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:128: Undefined control sequence.
+l.128 \subsection
+                 *{TXO cell-free biosensors}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `NAR-fig3' on page 8 undefined on input line 129.
+
+
+LaTeX Warning: Reference `NAR-fig3' on page 8 undefined on input line 129.
+
+
+../chapter2/chapter//chapter2.tex:130: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[8]
+
+../chapter2/chapter//chapter2.tex:131: LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 \begin{figure*}
+                     [t]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:134: Undefined control sequence.
+l.134 \includegraphics
+                      [width=380px]{Figure-3.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:136: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \caption
+              {Heavy metal detection by TXO Cell-free biosensors. Detection ...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter2/chapter//chapter2.tex:139: LaTeX Error: \begin{document} ended by \end{figure*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 \end{figure*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:142: Undefined control sequence.
+l.142 \section
+              {\textbf{Discussion / Conclusions}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `6' on page 9 undefined on input line 144.
+
+
+LaTeX Warning: Citation `23' on page 9 undefined on input line 144.
+
+
+LaTeX Warning: Citation `24' on page 9 undefined on input line 144.
+
+
+LaTeX Warning: Citation `25' on page 9 undefined on input line 144.
+
+
+LaTeX Warning: Citation `26' on page 9 undefined on input line 144.
+
+
+LaTeX Warning: Citation `27' on page 9 undefined on input line 144.
+
+
+LaTeX Warning: Citation `7' on page 9 undefined on input line 146.
+
+
+LaTeX Warning: Reference `NAR-fig1' on page 9 undefined on input line 146.
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 146.
+(C:\Users\fmill\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 146.
+
+
+LaTeX Warning: Citation `30' on page 9 undefined on input line 146.
+
+
+LaTeX Warning: Citation `8' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Citation `28' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Citation `29' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Citation `30' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Citation `31' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Citation `32' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Citation `33' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Citation `34' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Citation `35' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Reference `table:01' on page 9 undefined on input line 148.
+
+
+LaTeX Warning: Reference `NAR-fig2' on page 9 undefined on input line 148.
+
+
+../chapter2/chapter//chapter2.tex:152: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.152 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[9]
+../chapter2/chapter//chapter2.tex:154: Undefined control sequence.
+l.154 \section
+              {\textbf{Data Availability}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:157: Undefined control sequence.
+l.157 \section
+              {\textbf{Acknowledgments}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:162: Undefined control sequence.
+l.162 \section
+              {\textbf{Supplementary Material}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:165: LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.165 \begin{table}
+                   [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:167: Undefined control sequence.
+l.167 \tableparts
+                 {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:168: Undefined control sequence.
+l.168 \captionsetup
+                   {labelformat=empty}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:169: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 \caption
+              {\textbf{Table S1:} Fluorophores information
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
+
+ []
+
+../chapter2/chapter//chapter2.tex:175: Undefined control sequence.
+l.175 \toprule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:178: Undefined control sequence.
+<recently read> \colrule 
+                         
+l.178 \colrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:190: Undefined control sequence.
+l.190 \botrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in alignment at lines 174--191
+[][][]
+ []
+
+
+../chapter2/chapter//chapter2.tex:197: LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.197 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 174--198
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--198
+
+ []
+
+
+../chapter2/chapter//chapter2.tex:199: LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.199 \begin{figure*}
+                      [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:201: Undefined control sequence.
+l.201 \includegraphics
+                      [width=350px]{Figure-S1.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:203: Undefined control sequence.
+l.203 \captionsetup
+                   {labelformat=empty}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:204: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 \caption
+              {\textbf{Figure S1:} Fluorescent RNA aptamers observed under a...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter2/chapter//chapter2.tex:206: LaTeX Error: \begin{document} ended by \end{figure*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 \end{figure*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../chapter2/chapter//chapter2.tex:208: LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208 \begin{table}
+                   [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:209: Undefined control sequence.
+l.209 \tableparts
+                 {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:210: Undefined control sequence.
+l.210 \captionsetup
+                   {labelformat=empty}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:211: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 \caption
+              {\textbf{Table S2:} Oligonucleotides used
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+../chapter2/chapter//chapter2.tex:217: Undefined control sequence.
+l.217 \toprule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:221: Undefined control sequence.
+<recently read> \colrule 
+                         
+l.221 \colrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:222: Missing $ inserted.
+<inserted text> 
+                $
+l.222 F240 & Cyan_
+                  {F30::2-4}Fw &  \MakeLowercase{TGTGGGAGACGCAACTGAATGAACCTA...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:222: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.222 F240 & Cyan_{F30::2-4}Fw &
+                                  \MakeLowercase{TGTGGGAGACGCAACTGAATGAACCTA...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:222: Missing $ inserted.
+<inserted text> 
+                $
+l.222 F240 & Cyan_{F30::2-4}Fw &
+                                  \MakeLowercase{TGTGGGAGACGCAACTGAATGAACCTA...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:222: Missing } inserted.
+<inserted text> 
+                }
+l.222 F240 & Cyan_{F30::2-4}Fw &
+                                  \MakeLowercase{TGTGGGAGACGCAACTGAATGAACCTA...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 F241 & Cyan_
+                  {F30::2-4}Rv &  \MakeLowercase{GTGGGGAGACGCGACTAGTTACGGACT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:226: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.226 F241 & Cyan_{F30::2-4}Rv &
+                                  \MakeLowercase{GTGGGGAGACGCGACTAGTTACGGACT...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 F241 & Cyan_{F30::2-4}Rv &
+                                  \MakeLowercase{GTGGGGAGACGCGACTAGTTACGGACT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:226: Missing } inserted.
+<inserted text> 
+                }
+l.226 F241 & Cyan_{F30::2-4}Rv &
+                                  \MakeLowercase{GTGGGGAGACGCGACTAGTTACGGACT...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:230: Missing $ inserted.
+<inserted text> 
+                $
+l.230 F242 & 	Red_
+                  {F30::6-8}Fw &  \MakeLowercase{TGTGGGagacgcaactgaatgaaaatg...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:230: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.230 F242 & 	Red_{F30::6-8}Fw &
+                                  \MakeLowercase{TGTGGGagacgcaactgaatgaaaatg...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:230: Missing $ inserted.
+<inserted text> 
+                $
+l.230 F242 & 	Red_{F30::6-8}Fw &
+                                  \MakeLowercase{TGTGGGagacgcaactgaatgaaaatg...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:230: Missing } inserted.
+<inserted text> 
+                }
+l.230 F242 & 	Red_{F30::6-8}Fw &
+                                  \MakeLowercase{TGTGGGagacgcaactgaatgaaaatg...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:234: Missing $ inserted.
+<inserted text> 
+                $
+l.234 F243 & Red_
+                 {F30::6-8}Rv &  \MakeLowercase{GTGGGgagacgcgactagttacggaata...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:234: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.234 F243 & Red_{F30::6-8}Rv &
+                                 \MakeLowercase{GTGGGgagacgcgactagttacggaata...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:234: Missing $ inserted.
+<inserted text> 
+                $
+l.234 F243 & Red_{F30::6-8}Rv &
+                                 \MakeLowercase{GTGGGgagacgcgactagttacggaata...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:234: Missing } inserted.
+<inserted text> 
+                }
+l.234 F243 & Red_{F30::6-8}Rv &
+                                 \MakeLowercase{GTGGGgagacgcgactagttacggaata...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:238: Missing $ inserted.
+<inserted text> 
+                $
+l.238 F244 & Yellow_
+                    {F30::17-3}Fw &  \MakeLowercase{TGTGGGagacgcaactgaatgaag...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:238: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.238 F244 & Yellow_{F30::17-3}Fw &
+                                     \MakeLowercase{TGTGGGagacgcaactgaatgaag...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:238: Missing $ inserted.
+<inserted text> 
+                $
+l.238 F244 & Yellow_{F30::17-3}Fw &
+                                     \MakeLowercase{TGTGGGagacgcaactgaatgaag...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:238: Missing } inserted.
+<inserted text> 
+                }
+l.238 F244 & Yellow_{F30::17-3}Fw &
+                                     \MakeLowercase{TGTGGGagacgcaactgaatgaag...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:242: Missing $ inserted.
+<inserted text> 
+                $
+l.242 F245 & Yellow_
+                    {F30::17-3}Rv &  \MakeLowercase{GTGGGgagacgcgactagttacgg...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:242: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.242 F245 & Yellow_{F30::17-3}Rv &
+                                     \MakeLowercase{GTGGGgagacgcgactagttacgg...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:242: Missing $ inserted.
+<inserted text> 
+                $
+l.242 F245 & Yellow_{F30::17-3}Rv &
+                                     \MakeLowercase{GTGGGgagacgcgactagttacgg...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:242: Missing } inserted.
+<inserted text> 
+                }
+l.242 F245 & Yellow_{F30::17-3}Rv &
+                                     \MakeLowercase{GTGGGgagacgcgactagttacgg...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:246: Missing $ inserted.
+<inserted text> 
+                $
+l.246 F296 & Green_
+                   {F30::iSpinach}Fw &  \MakeLowercase{gaattcgcggccgcttCTAGA...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:246: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.246 F296 & Green_{F30::iSpinach}Fw &
+                                        \MakeLowercase{gaattcgcggccgcttCTAGA...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:246: Missing $ inserted.
+<inserted text> 
+                $
+l.246 F296 & Green_{F30::iSpinach}Fw &
+                                        \MakeLowercase{gaattcgcggccgcttCTAGA...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:246: Missing } inserted.
+<inserted text> 
+                }
+l.246 F296 & Green_{F30::iSpinach}Fw &
+                                        \MakeLowercase{gaattcgcggccgcttCTAGA...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:250: Missing $ inserted.
+<inserted text> 
+                $
+l.250 F297 & Green_
+                   {F30::iSpinach}Rv & \MakeLowercase{ctgcagcggccgctactagtaC...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:250: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.250 F297 & Green_{F30::iSpinach}Rv &
+                                       \MakeLowercase{ctgcagcggccgctactagtaC...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:250: Missing $ inserted.
+<inserted text> 
+                $
+l.250 F297 & Green_{F30::iSpinach}Rv &
+                                       \MakeLowercase{ctgcagcggccgctactagtaC...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:250: Missing } inserted.
+<inserted text> 
+                }
+l.250 F297 & Green_{F30::iSpinach}Rv &
+                                       \MakeLowercase{ctgcagcggccgctactagtaC...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:254: Missing $ inserted.
+<inserted text> 
+                $
+l.254 F310 & P_
+               {pbr}::Green Fw &  \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGGCGT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:254: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.254 F310 & P_{pbr}::Green Fw &
+                                  \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGGCGT...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:254: Missing $ inserted.
+<inserted text> 
+                $
+l.254 F310 & P_{pbr}::Green Fw &
+                                  \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGGCGT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:254: Missing } inserted.
+<inserted text> 
+                }
+l.254 F310 & P_{pbr}::Green Fw &
+                                  \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGGCGT...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:258: Missing $ inserted.
+<inserted text> 
+                $
+l.258 F311 & P_
+               {mer}::Green Fw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGATCGCT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:258: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.258 F311 & P_{mer}::Green Fw &
+                                 \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGATCGCT...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:258: Missing $ inserted.
+<inserted text> 
+                $
+l.258 F311 & P_{mer}::Green Fw &
+                                 \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGATCGCT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:258: Missing } inserted.
+<inserted text> 
+                }
+l.258 F311 & P_{mer}::Green Fw &
+                                 \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGATCGCT...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:262: Missing $ inserted.
+<inserted text> 
+                $
+l.262 F312 & P_
+               {cop}::Green Fw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGAATTTC...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:262: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.262 F312 & P_{cop}::Green Fw &
+                                 \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGAATTTC...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:262: Missing $ inserted.
+<inserted text> 
+                $
+l.262 F312 & P_{cop}::Green Fw &
+                                 \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGAATTTC...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:262: Missing } inserted.
+<inserted text> 
+                }
+l.262 F312 & P_{cop}::Green Fw &
+                                 \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGAATTTC...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:266: Missing $ inserted.
+<inserted text> 
+                $
+l.266 F313 & P_
+               {ars}::Green Fw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGTATAT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:266: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.266 F313 & P_{ars}::Green Fw &
+                                 \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGTATAT...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:266: Missing $ inserted.
+<inserted text> 
+                $
+l.266 F313 & P_{ars}::Green Fw &
+                                 \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGTATAT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:266: Missing } inserted.
+<inserted text> 
+                }
+l.266 F313 & P_{ars}::Green Fw &
+                                 \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGTATAT...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:270: Missing $ inserted.
+<inserted text> 
+                $
+l.270 F330 & Corn_
+                  {F30::Corn}Fw & \MakeLowercase{GATCCTTCGGGATCATTCATGGCAAAT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:270: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.270 F330 & Corn_{F30::Corn}Fw &
+                                  \MakeLowercase{GATCCTTCGGGATCATTCATGGCAAAT...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:270: Missing $ inserted.
+<inserted text> 
+                $
+l.270 F330 & Corn_{F30::Corn}Fw &
+                                  \MakeLowercase{GATCCTTCGGGATCATTCATGGCAAAT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:270: Missing } inserted.
+<inserted text> 
+                }
+l.270 F330 & Corn_{F30::Corn}Fw &
+                                  \MakeLowercase{GATCCTTCGGGATCATTCATGGCAAAT...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:274: Missing $ inserted.
+<inserted text> 
+                $
+l.274 F331 & Corn_
+                  {F30::Corn}Rv & \MakeLowercase{CTCCTCAGACCTCCTTCCTCGCGCcgt...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:274: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.274 F331 & Corn_{F30::Corn}Rv &
+                                  \MakeLowercase{CTCCTCAGACCTCCTTCCTCGCGCcgt...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:274: Missing $ inserted.
+<inserted text> 
+                $
+l.274 F331 & Corn_{F30::Corn}Rv &
+                                  \MakeLowercase{CTCCTCAGACCTCCTTCCTCGCGCcgt...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:274: Missing } inserted.
+<inserted text> 
+                }
+l.274 F331 & Corn_{F30::Corn}Rv &
+                                  \MakeLowercase{CTCCTCAGACCTCCTTCCTCGCGCcgt...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:278: Missing $ inserted.
+<inserted text> 
+                $
+l.278 F404 & 	P_
+                {czcN}::GreenFw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggagg...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:278: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.278 F404 & 	P_{czcN}::GreenFw &
+                                  \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggagg...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:278: Missing $ inserted.
+<inserted text> 
+                $
+l.278 F404 & 	P_{czcN}::GreenFw &
+                                  \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggagg...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:278: Missing } inserted.
+<inserted text> 
+                }
+l.278 F404 & 	P_{czcN}::GreenFw &
+                                  \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggagg...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:282: Missing $ inserted.
+<inserted text> 
+                $
+l.282 F405 & P_
+               {cnr}::GreenFw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggaggcc...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:282: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.282 F405 & P_{cnr}::GreenFw &
+                                \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggaggcc...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:282: Missing $ inserted.
+<inserted text> 
+                $
+l.282 F405 & P_{cnr}::GreenFw &
+                                \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggaggcc...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:282: Missing } inserted.
+<inserted text> 
+                }
+l.282 F405 & P_{cnr}::GreenFw &
+                                \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggaggcc...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:286: Missing $ inserted.
+<inserted text> 
+                $
+l.286 F408 & PS2M_
+                  Fw & \MakeLowercase{gaattcgcggccgcttCTAGAGTAATACGACTCACTAT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:286: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.286 F408 & PS2M_Fw &
+                       \MakeLowercase{gaattcgcggccgcttCTAGAGTAATACGACTCACTAT...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:286: Missing $ inserted.
+<inserted text> 
+                $
+l.286 F408 & PS2M_Fw &
+                       \MakeLowercase{gaattcgcggccgcttCTAGAGTAATACGACTCACTAT...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:286: Missing } inserted.
+<inserted text> 
+                }
+l.286 F408 & PS2M_Fw &
+                       \MakeLowercase{gaattcgcggccgcttCTAGAGTAATACGACTCACTAT...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:290: Missing $ inserted.
+<inserted text> 
+                $
+l.290 F409 & PS2M_
+                  Rv & \MakeLowercase{ATActgcagcggccgctactagtaCCCCTCAAGACCCG...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:290: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.290 F409 & PS2M_Rv &
+                       \MakeLowercase{ATActgcagcggccgctactagtaCCCCTCAAGACCCG...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:290: Missing $ inserted.
+<inserted text> 
+                $
+l.290 F409 & PS2M_Rv &
+                       \MakeLowercase{ATActgcagcggccgctactagtaCCCCTCAAGACCCG...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:290: Missing } inserted.
+<inserted text> 
+                }
+l.290 F409 & PS2M_Rv &
+                       \MakeLowercase{ATActgcagcggccgctactagtaCCCCTCAAGACCCG...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:300: Missing $ inserted.
+<inserted text> 
+                $
+l.300 F313-F297 & BBK::P_
+                         {ars}::Greeen & \MakeLowercase{GAATTCGCGGCCGCTTCTAG...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:300: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.300 F313-F297 & BBK::P_{ars}::Greeen &
+                                         \MakeLowercase{GAATTCGCGGCCGCTTCTAG...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../chapter2/chapter//chapter2.tex:300: Missing $ inserted.
+<inserted text> 
+                $
+l.300 F313-F297 & BBK::P_{ars}::Greeen &
+                                         \MakeLowercase{GAATTCGCGGCCGCTTCTAG...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../chapter2/chapter//chapter2.tex:300: Missing } inserted.
+<inserted text> 
+                }
+l.300 F313-F297 & BBK::P_{ars}::Greeen &
+                                         \MakeLowercase{GAATTCGCGGCCGCTTCTAG...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../chapter2/chapter//chapter2.tex:324: Undefined control sequence.
+l.324 \botrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (105.06136pt too wide) in alignment at lines 216--325
+[][][]
+ []
+
+
+../chapter2/chapter//chapter2.tex:327: LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+../chapter2/chapter//chapter2.tex:329: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[10]
+
+../chapter2/chapter//chapter2.tex:329: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[11]
+
+../chapter2/chapter//chapter2.tex:333: LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.333 \begin{table}
+                   [ht!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:334: Undefined control sequence.
+l.334 \tableparts
+                 {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:339: Undefined control sequence.
+l.339 \toprule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:343: Undefined control sequence.
+<recently read> \colrule 
+                         
+l.343 \colrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:368: Undefined control sequence.
+<recently read> \botrule 
+                         
+l.368 \botrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (94.34581pt too wide) in alignment at lines 338--369
+[][][]
+ []
+
+
+../chapter2/chapter//chapter2.tex:371: LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.371 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../chapter2/chapter//chapter2.tex:373: LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.373 \begin{figure*}
+                      [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../chapter2/chapter//chapter2.tex:376: Undefined control sequence.
+l.376 \includegraphics
+                      [width=500px]{FigureS22.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter2/chapter//chapter2.tex:378: Undefined control sequence.
+l.378 \captionsetup
+                   {labelformat=empty}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter2/chapter//chapter2.tex:379: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 \caption
+              {\textbf{Figure S2:} TXO sensors over time with different meta...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../chapter2/chapter//chapter2.tex:381: LaTeX Error: \begin{document} ended by \end{figure*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.381 \end{figure*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (../chapter3/chapter//chapter3.tex
+../chapter3/chapter//chapter3.tex:1: Undefined control sequence.
+l.1 \chapter
+            {Cupria, a novel cell-free system for industrial biotechnology}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:3: Undefined control sequence.
+l.3 \section
+            {\textbf{Abstract }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:7: Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.7 lala\footnote{testing a footnote}
+                                     .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:7: Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.7 lala\footnote{testing a footnote}
+                                     .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:9: Undefined control sequence.
+l.9 \section
+            {\textbf{Introduction }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `carlson2012cell' on page 12 undefined on input line 15.
+
+
+LaTeX Warning: Citation `bernhard2013cell' on page 12 undefined on input line 15.
+
+
+LaTeX Warning: Citation `kwon2015high' on page 12 undefined on input line 15.
+
+../chapter3/chapter//chapter3.tex:16: Undefined control sequence.
+l.16 \section
+             {\textbf{Methodology }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:18: Undefined control sequence.
+l.18 \subsection
+                *{Strains and Cell free extract preparation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:22: Undefined control sequence.
+l.22 \subsection
+                *{DNA constructs generation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../chapter3/chapter//chapter3.tex:43: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[12]
+../chapter3/chapter//chapter3.tex:44: Undefined control sequence.
+l.44 \subsection
+                *{Expression and detection of Fluorescent RNA aptamers.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:49: Undefined control sequence.
+l.49 \subsection
+                *{Heavy metal quantification by fluorescence detection}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:63: Undefined control sequence.
+l.63 \section
+             {\textbf{Results}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:72: Undefined control sequence.
+l.72 \section
+             {\textbf{Discussion / Conclusions}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:91: Undefined control sequence.
+l.91 \section
+             {\textbf{Data Availability}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:94: Undefined control sequence.
+l.94 \section
+             {\textbf{Acknowledgments}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+../chapter3/chapter//chapter3.tex:98: Undefined control sequence.
+l.98 \section
+             {\textbf{Supplementary Material}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (../disconclusion/chapter//disconclusion.tex
+../disconclusion/chapter//disconclusion.tex:1: Undefined control sequence.
+l.1 \chapter
+            {Discussion / Conclusions}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+Overfull \hbox (261.54153pt too wide) in paragraph at lines 100--61
+[]\OT1/cmr/m/n/10 The Sup-ple-men-tary Ma-te-rial for this ar-ti-cle can be found on-line at: https://www.frontiersin.org/articles/10.3389/fbioe.2019.00046/full#supplementary-
+ []
+
+(../appendix/appendix/appendix.tex
+../appendix/appendix/appendix.tex:1: Undefined control sequence.
+l.1 \chapter
+            {Appendix}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+../appendix/appendix/appendix.tex:3: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{center}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[13]
+
+../appendix/appendix/appendix.tex:4: LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{table}
+                 [h0]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../appendix/appendix/appendix.tex:6: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \caption
+            {Primers designed and synthesised for this thesis}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../appendix/appendix/appendix.tex:372: LaTeX Error: \begin{center} on input line 3 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.372 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (687.31906pt too wide) in paragraph at lines 4--373
+ [] 
+ []
+
+
+../appendix/appendix/appendix.tex:377: LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.377 \begin{table}
+                   [h1]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+../appendix/appendix/appendix.tex:377: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.377 \begin{table}[
+                    h1]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[14]
+Overfull \vbox (1566.0035pt too high) has occurred while \output is active []
+
+
+
+../appendix/appendix/appendix.tex:377: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.377 \begin{table}[
+                    h1]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[15]
+
+../appendix/appendix/appendix.tex:379: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 \caption
+              {ParAlleL 3 bit Full adder/subtractor design}\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+../appendix/appendix/appendix.tex:397: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.397 \hline
+            
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+../appendix/appendix/appendix.tex:399: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.399 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../appendix/appendix/appendix.tex:400: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+../appendix/appendix/appendix.tex:409: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.409 \hline
+            
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+../appendix/appendix/appendix.tex:410: LaTeX Error: \begin{center} on input line 3 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.410 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../appendix/appendix/appendix.tex:411: LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.411 \begin{table}
+                   [h2]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../appendix/appendix/appendix.tex:413: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.413 \caption
+              {Plasmids used for generating ParAlleL subcircuit strains.}\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (39.40231pt too wide) in paragraph at lines 414--429
+ [][] 
+ []
+
+
+../appendix/appendix/appendix.tex:430: LaTeX Error: \begin{center} on input line 3 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.430 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../appendix/appendix/appendix.tex:432: LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.432 \begin{table}
+                   [h2]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../appendix/appendix/appendix.tex:434: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.434 \caption
+              {Antibiotics and resistance cassettes used on ParAlleL.}\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+../appendix/appendix/appendix.tex:441: Missing $ inserted.
+<inserted text> 
+                $
+l.441 Ampicillin & \beta
+                        -lactam & Bactericidal; Inhibits cell wall synthesis...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../appendix/appendix/appendix.tex:441: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.441 Ampicillin & \beta-lactam &
+                                  Bactericidal; Inhibits cell wall synthesis...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../appendix/appendix/appendix.tex:441: Missing $ inserted.
+<inserted text> 
+                $
+l.441 Ampicillin & \beta-lactam &
+                                  Bactericidal; Inhibits cell wall synthesis...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../appendix/appendix/appendix.tex:441: Missing } inserted.
+<inserted text> 
+                }
+l.441 Ampicillin & \beta-lactam &
+                                  Bactericidal; Inhibits cell wall synthesis...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+../appendix/appendix/appendix.tex:441: Missing $ inserted.
+<inserted text> 
+                $
+l.441 ...dal; Inhibits cell wall synthesis & \beta
+                                                  -lactamase (bla) gene  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../appendix/appendix/appendix.tex:442: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.442  K
+        anamycin & Aminoglycoside & Bactericidal; Binds 30S ribosomal subuni...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+../appendix/appendix/appendix.tex:442: Missing $ inserted.
+<inserted text> 
+                $
+l.442  K
+        anamycin & Aminoglycoside & Bactericidal; Binds 30S ribosomal subuni...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+../appendix/appendix/appendix.tex:442: Missing } inserted.
+<inserted text> 
+                }
+l.442  K
+        anamycin & Aminoglycoside & Bactericidal; Binds 30S ribosomal subuni...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (333.04175pt too wide) in paragraph at lines 435--451
+ [][] 
+ []
+
+
+../appendix/appendix/appendix.tex:452: LaTeX Error: \begin{center} on input line 3 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.452 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../appendix/appendix/appendix.tex:454: LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.454 \begin{table}
+                   [h3]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+../appendix/appendix/appendix.tex:455: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.455 \caption
+              {Plasmid incompatibility groups.}\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (65.26324pt too wide) in paragraph at lines 457--466
+ [][] 
+ []
+
+
+../appendix/appendix/appendix.tex:467: LaTeX Error: \begin{center} on input line 3 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.467 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:71: Undefined control sequence.
+l.71 \ifthenelse
+                {\boolean{edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:71: Undefined control sequence.
+l.71 \ifthenelse{\boolean
+                         {edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:73: LaTeX Error: Environment singlespace undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73  \begin{singlespace}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:74: Extra }, or forgotten \endgroup.
+l.74 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:76: Undefined control sequence.
+l.76   \backmatter
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+No file nice_thesis.bbl.
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:82: Undefined control sequence.
+l.82 \ifthenelse
+                {\boolean{edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:82: Undefined control sequence.
+l.82 \ifthenelse{\boolean
+                         {edthesis}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:84: LaTeX Error: \begin{document} ended by \end{singlespace}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84   \end{singlespace}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:84: Missing } inserted.
+<inserted text> 
+                }
+l.84   \end{singlespace}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:90: Undefined control sequence.
+l.90 \backmatter
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:91: Undefined control sequence.
+l.91 \includepdf
+                [pages=-, width=\paperwidth,height=\paperheight, offset= 20 ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:91: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.91 \includepdf[pages=-, width=\paperwidth,h
+                                             eight=\paperheight, offset= 20 ...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:91: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   o
+l.91 ..., width=\paperwidth,height=\paperheight, o
+                                                  ffset= 20 -20]
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:93: Undefined control sequence.
+l.93 \includepdf
+                [pages=-, width=\paperwidth,height=\paperheight, offset= 20 ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:93: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.93 \includepdf[pages=-, width=\paperwidth,h
+                                             eight=\paperheight, offset= 20 ...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\thesis.tex:93: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   o
+l.93 ..., width=\paperwidth,height=\paperheight, o
+                                                  ffset= 20 -20]
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+)
+
+c:/Users/fmill/Documents/UoE/2021Thesis/phd_thesis/thesis/nice_thesis.tex:9: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \end{document}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[16] (c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\nice_thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 340 strings out of 479799
+ 9199 string characters out of 2869723
+ 396314 words of memory out of 3000000
+ 17356 multiletter control sequences out of 15000+200000
+ 536077 words of font info for 32 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,8n,46p,1703b,156s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\fmill\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/fmill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/fmill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fmill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/fmill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fmill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/fmill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fmill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/fmill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on c:/Users\fmill\Documents\UoE\2021Thesis\phd_thesis\thesis\nice_thesis.pdf (20 pages, 198540 bytes).
+PDF statistics:
+ 107 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
