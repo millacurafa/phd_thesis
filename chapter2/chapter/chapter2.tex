@@ -1,8 +1,7 @@
 \chapter{TXO: Transcription-Only genetic circuits as a novel cell-free approach for Synthetic Biology}
 
 \section{\textbf{Abstract }}
-\justifying
-While synthetic biology represents a promising approach to solve real-world problems, 
+\justifying While synthetic biology represents a promising approach to solve real-world problems, 
 the use of genetically modified organisms is a cause of legal and environmental concerns. 
 Cell-free systems have emerged as a possible solution but much work is needed to optimize their 
 functionality and simplify their usage for Synthetic Biology. 
@@ -13,8 +12,7 @@ circuit and biosensor applications.
 
 
 \section{\textbf{Introduction }}
-\justifying
-Cells, including microbial, plant and mammalian cells, have been long engineered for responding to a plethora of environmental factors, benefiting from their intrinsic ability to process the entire cycle from the recognition of a specific target, to analysis of the information, and generation of an output signal \cite{1}. 
+\justifying Cells, including microbial, plant and mammalian cells, have been long engineered for responding to a plethora of environmental factors, benefiting from their intrinsic ability to process the entire cycle from the recognition of a specific target, to analysis of the information, and generation of an output signal \cite{1}. 
 However, cell-based systems present also unavoidable disadvantages during their usage, including the risk of releasing genetically modified organisms (GMOs) into the environment, accumulation of mutations and genetic instability, uncontrollable side-reactions within the cell, and issues with viability maintenance during long-term storage \cite{2,3,4,5}.
 
 In order to solve these issues, cell-free systems (CFS), also known as transcription-translation (TX-TL) systems, have emerged as a promising alternative. CFS not only inherit most of the benefits from cell-based systems, but also avoid major challenges that they face. Typically CFS are based on non-living cell-extracts or reconstituted systems that by not presenting a living prospect solve problems related to biosafety, cross-reactivity and long-term functionality maintenance. CFS are rather robust to factors that pose cellular stress, including sensitivity to toxic pollutants and to the typical "overload problem" observed when foreign "genetic circuits" are introduced into the cell \cite{6}.
@@ -50,7 +48,7 @@ Plasmids were extracted from \textit{E.coli} JM109 transformed cells using the Q
 \begin{figure*}[h]
 \begin{center}
 \hspace*{0cm}
-\includegraphics[height=220px]{Figure-1ab.png}
+\includegraphics[height=220px]{Figure-1ab}
 \end{center}
 \caption{Schematic diagrams of TXO cell free system with minimal requirements. \textbf{(a)} Sequence and production process of diverse RNA aptamers via PCR, showing addition of BsmBI sites for further Golden Gate manipulation. \textbf{(b)} In a TXO system there are minimal requirements such as an inducer, moderator/repressor, RNA polymerase and a final RNA output herewith represented as a fluorescent aptamer.}
 \label{NAR-fig1}
@@ -86,13 +84,13 @@ Commonly, cell-free systems are associated with the use of TX-TL systems instead
 }{%
 \hspace{1.5cm}
 \begin{tabular*}{\columnwidth}{@{}llllll@{}}
-\toprule
+\hline
 \textbf{Aptamer} & \textbf{Emitted} & \textbf{Size} & \textbf{Ex/Em} & \textbf{Fluorophore} & \textbf{Reference}
 \\
 & \textbf{Colour} & \textbf{(bp)} & \textbf{(nm)} & & 
 \\
 \\
-\colrule
+\hline
 Broccoli & Green & 47 & 470/530 & DFHBI & \cite{14}
 \\
 Broccoli2X & Green & 157 & 470/530 & DFHBI & \cite{21}
@@ -109,11 +107,10 @@ Corn & Orange & 45 & 480/520 & DFHO & \cite{22}
 \\
 6-8**** & Red & 101 & 400/600 & 2-HBI & \cite{12}
 \\
-\botrule
+\hline
 \end{tabular*}
 }
-{\\
-\\Ex/Em extracted from respective Ref. 
+{Ex/Em extracted from respective Ref. 
 Hereafter named *Green, **Cyan, ***Yellow, ****Red due to their protection within the F30 scaffold. Further  fluorophores information   available in Table S1}
 \end{table}
 
@@ -179,10 +176,10 @@ The authors acknowledge the valuable assistance of Dr. Samie R Jaffrey on provid
 \label{table:S1}%
 }{%\hspace*{-5cm}
 \begin{tabular*}{\columnwidth}{@{}lll@{}}
-\toprule
+\hline
 Abbreviation & Formula & Chemical name 
 \\
-\colrule
+\hline
 DFHBI & C$_{12}$H$_{10}$F$_{2}$N$_{2}$O$_{2}$ &  3,5-difluoro-4-hydroxybenzylidene imidazolinone
 \\
 DMABI* & C$_{14}$H$_{17}$N$_{3}$O$_{1}$ & 4-dimethylaminobenzylidene imidazolinone
@@ -193,14 +190,10 @@ DFHO & C$_{12}$H$_{9}$F$_{2}$N$_{3}$O$_{3}$ & 3,5-difluoro-4-hydroxybenzylidene 
 \\
 ROX & C$_{37}$H$_{33}$N$_{3}$O$_{7}$ & 5-Carboxy-X-rhodamine N-succinimidyl ester 
 \\
-
-\botrule
+\hline
 \end{tabular*}
 }
-{
-%\hspace*{-5cm}
-\\
-\textit{*provided by Dr. Sammie R. Jaffrey's laboratory}}
+{\textit{*provided by Dr. Sammie R. Jaffrey's laboratory}}
 \end{table}
 
 \begin{figure*} [h] 
@@ -221,80 +214,80 @@ ROX & C$_{37}$H$_{33}$N$_{3}$O$_{7}$ & 5-Carboxy-X-rhodamine N-succinimidyl este
 }{%
 \hspace*{-4cm}
 \begin{tabular*}{\columnwidth}{@{}lll@{}}
-\toprule
+\hline
 \textbf{Oligo} & \textbf{Name} & \textbf{Sequence}
 \\
 \\
-\colrule
-F240 & Cyan_{F30::2-4}Fw &  \MakeLowercase{TGTGGGAGACGCAACTGAATGAACCTAGAGTTATGCCAGGCTCTGAGCCTGCTTCGGCAGGTGCTATGATCGCCAGCGGTAT}
+\hline
+F240 & Cyan$_{F30::2-4}Fw$ &  \MakeLowercase{TGTGGGAGACGCAACTGAATGAACCTAGAGTTATGCCAGGCTCTGAGCCTGCTTCGGCAGGTGCTATGATCGCCAGCGGTAT}
 \\
 & & \MakeLowercase{GCAGTCCGTAACTAGTCGCGTCTCC}
 \\
-F241 & Cyan_{F30::2-4}Rv &  \MakeLowercase{GTGGGGAGACGCGACTAGTTACGGACTGCATACCGCTGGCGATCATAGCACCTGCCGAAGCAGGCTCAGAGCCTGGCATAA}
+F241 & Cyan$_{F30::2-4}Rv$ &  \MakeLowercase{GTGGGGAGACGCGACTAGTTACGGACTGCATACCGCTGGCGATCATAGCACCTGCCGAAGCAGGCTCAGAGCCTGGCATAA}
 \\
 & & \MakeLowercase{CTCTAGGTTCATTCAGTTGCGTCTCC}
 \\
-F242 & 	Red_{F30::6-8}Fw &  \MakeLowercase{TGTGGGagacgcaactgaatgaaaatggcaaaatattcgagaagctggtctgcttcggcaggattctccaaggggtagatc}
+F242 & 	Red$_{F30::6-8}Fw$ &  \MakeLowercase{TGTGGGagacgcaactgaatgaaaatggcaaaatattcgagaagctggtctgcttcggcaggattctccaaggggtagatc}
 \\
 & & \MakeLowercase{gtgtattccgtaactagtcgcgtcTCC}
 \\
-F243 & Red_{F30::6-8}Rv &  \MakeLowercase{GTGGGgagacgcgactagttacggaatacacgatctaccccttggagaatcctgccgaagcagaccagcttctcgaatattt}
+F243 & Red$_{F30::6-8}Rv$ &  \MakeLowercase{GTGGGgagacgcgactagttacggaatacacgatctaccccttggagaatcctgccgaagcagaccagcttctcgaatattt}
 \\
 & & \MakeLowercase{tgccattttcattcagttgcgtcTCC}
 \\
-F244 & Yellow_{F30::17-3}Fw &  \MakeLowercase{TGTGGGagacgcaactgaatgaagagcagtagcgagtagttcacaagagctgcttcggcaggatcttgtaggaagtaaatg}
+F244 & Yellow$_{F30::17-3}Fw$ &  \MakeLowercase{TGTGGGagacgcaactgaatgaagagcagtagcgagtagttcacaagagctgcttcggcaggatcttgtaggaagtaaatg}
 \\
 & & \MakeLowercase{tgcaaatccgtaactagtcgcgtctcC}
 \\
-F245 & Yellow_{F30::17-3}Rv &  \MakeLowercase{GTGGGgagacgcgactagttacggatttgcacatttacttcctacaagatcctgccgaagcagctcttgtgaactactcgcta}
+F245 & Yellow$_{F30::17-3}Rv$ &  \MakeLowercase{GTGGGgagacgcgactagttacggatttgcacatttacttcctacaagatcctgccgaagcagctcttgtgaactactcgcta}
 \\
 & & \MakeLowercase{ctgctcttcattcagttgcgtctCC}
 \\
-F296 & Green_{F30::iSpinach}Fw &  \MakeLowercase{gaattcgcggccgcttCTAGAGTAATACGACTCACTATAGGGTTGCCATGTGTATGTGGGAGACGCGACTACGGTGAGGGTC}
+F296 & Green$_{F30::iSpinach}Fw$ &  \MakeLowercase{gaattcgcggccgcttCTAGAGTAATACGACTCACTATAGGGTTGCCATGTGTATGTGGGAGACGCGACTACGGTGAGGGTC}
 \\
 &  &  \MakeLowercase{GGGTCCAGTAGCTTCGGCTACTGTTGAGTAGAGTGTGG}
 \\
-F297 & Green_{F30::iSpinach}Rv & \MakeLowercase{ctgcagcggccgctactagtaCCCCTCAAGACCCGTTTAGAGGCCCCAAGGGGTTATTTGCCATGAATGATCCCGAAGGATC}
+F297 & Green$_{F30::iSpinach}Rv$ & \MakeLowercase{ctgcagcggccgctactagtaCCCCTCAAGACCCGTTTAGAGGCCCCAAGGGGTTATTTGCCATGAATGATCCCGAAGGATC}
 \\
 &  &  \MakeLowercase{ATCAGAGTATGTGGGGAGACGTACGGAGCCCACA}
 \\
-F310 & P_{pbr}::Green Fw &  \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGGCGTCGGATGGGAGATGTCTTGACTCTATAGTAACTAGAGGGTGTTAAATCGGCAACTT}
+F310 & P$_{pbr}$::Green Fw &  \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGGCGTCGGATGGGAGATGTCTTGACTCTATAGTAACTAGAGGGTGTTAAATCGGCAACTT}
 \\
 &  &  \MakeLowercase{GCCATGTGTATGTGGGAGACGCGACTACGGTGAGGGTC}
 \\
-F311 & P_{mer}::Green Fw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGATCGCTTGACTCCGTACATGAGTACGGAAGTAAGGTTACGCTATCCAATTTCAATTCGAAT}
+F311 & P$_{mer}$::Green Fw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGATCGCTTGACTCCGTACATGAGTACGGAAGTAAGGTTACGCTATCCAATTTCAATTCGAAT}
 \\
 & & \MakeLowercase{TGCCATGTG}
 \\
-F312 & P_{cop}::Green Fw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGAATTTCTTGACCTTCCCCTTGCTGGAAGGTTTAACCTTTATCACATTGCCATGTGTATGTGG}
+F312 & P$_{cop}$::Green Fw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGAATTTCTTGACCTTCCCCTTGCTGGAAGGTTTAACCTTTATCACATTGCCATGTGTATGTGG}
 \\
 & & \MakeLowercase{GAGACGCG}
 \\
-F313 & P_{ars}::Green Fw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGTATATACACATTCGTTAAGTCATATATGTTTTTGACTTATCCGCTTCGAAGAGAGACACT}
+F313 & P$_{ars}$::Green Fw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGTATATACACATTCGTTAAGTCATATATGTTTTTGACTTATCCGCTTCGAAGAGAGACACT}
 \\
  &  & \MakeLowercase{ACCTGCAACTTGCCATGTGTATGTGGGAGACGCGACT}
 \\
-F330 & Corn_{F30::Corn}Fw & \MakeLowercase{GATCCTTCGGGATCATTCATGGCAAATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGGTACTAGTAGCGGCCGCTGCAG}
+F330 & Corn$_{F30::Corn}Fw$ & \MakeLowercase{GATCCTTCGGGATCATTCATGGCAAATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGGTACTAGTAGCGGCCGCTGCAG}
 \\
 & & \MakeLowercase{tactata}
 \\
-F331 & Corn_{F30::Corn}Rv & \MakeLowercase{CTCCTCAGACCTCCTTCCTCGCGCcgtctCCCACATACACATGGCAACCCTATAGTGAGTCGTATTACTCTAGaagcggccgc}
+F331 & Corn$_{F30::Corn}$Rv & \MakeLowercase{CTCCTCAGACCTCCTTCCTCGCGCcgtctCCCACATACACATGGCAACCCTATAGTGAGTCGTATTACTCTAGaagcggccgc}
 \\
 & & \MakeLowercase{gaattc}
 \\
-F404 & 	P_{czcN}::GreenFw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggagggcgtctctgggtgtgtgctgaaaatggccaagacagtctatgtcccagaagatg}
+F404 & 	P$_{czcN}$::GreenFw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggagggcgtctctgggtgtgtgctgaaaatggccaagacagtctatgtcccagaagatg}
 \\
 &  &  \MakeLowercase{actgtcagattgccgagctTTGCCATGTGTATGTGGGAG}
 \\
-F405 & P_{cnr}::GreenFw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggaggcctgaagccggaacatcgacctgcttacgatcgcgttcttatcgatgcacTTGCC}
+F405 & P$_{cnr}$::GreenFw & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggaggcctgaagccggaacatcgacctgcttacgatcgcgttcttatcgatgcacTTGCC}
 \\
 & & \MakeLowercase{ATGTGTATGTGGGAGACG}
 \\
-F408 & PS2M_Fw & \MakeLowercase{gaattcgcggccgcttCTAGAGTAATACGACTCACTATAGGGGTGGGTAGGGCGGGTTGGATAACCCCTTGGGGCCTCTAA}
+F408 & PS2M$_Fw$ & \MakeLowercase{gaattcgcggccgcttCTAGAGTAATACGACTCACTATAGGGGTGGGTAGGGCGGGTTGGATAACCCCTTGGGGCCTCTAA}
 \\
 &  &  \MakeLowercase{ACGGGTCTTGAGGGGtactagtagcggccgctgcagTAT}
 \\
-F409 & PS2M_Rv & \MakeLowercase{ATActgcagcggccgctactagtaCCCCTCAAGACCCGTTTAGAGGCCCCAAGGGGTTATCCAACCCGCCCTACCCACCCC}
+F409 & PS2M$_Rv$ & \MakeLowercase{ATActgcagcggccgctactagtaCCCCTCAAGACCCGTTTAGAGGCCCCAAGGGGTTATCCAACCCGCCCTACCCACCCC}
 \\
 & & \MakeLowercase{TATAGTGAGTCGTATTACTCTAGaagcggccgcgaattc}
 \\
@@ -304,7 +297,7 @@ F296-F297 & BBK::P$_{T7}$::Green & \MakeLowercase{gaattcgcggccgcttCTAGAGTAATACGA
 \\
 & & \MakeLowercase{GGATCATTCATGGCAAATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGGtactagtagcggccgctgcag}
 \\
-F313-F297 & BBK::P_{ars}::Greeen & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGTATATACACATTCGTTAAGTCATATATGTTTTTGACTTATCCGCTTCGAAGAGAGACAC}
+F313-F297 & BBK::P$_{ars}$::Greeen & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGTATATACACATTCGTTAAGTCATATATGTTTTTGACTTATCCGCTTCGAAGAGAGACAC}
 \\
 &::T$_{T7}$::BBK & \MakeLowercase{TACCTGCAACTTGCCATGTGTATGTGGGAGACGCGACTACGGTGAGGGTCGGGTCCAGTAGCTTCGGCTACTGTTGAGTAG}
 \\
@@ -326,11 +319,10 @@ F312-F297 & BBK::P$_{cop}$::Green & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGAATTTCT
 \\
 & & \MakeLowercase{CCACATACTCTGATGATCCTTCGGGATCATTCATGGCAAATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGGtactagt}
 \\
-& & \MakeLowercase{agcggccgctgcag}
-
-\botrule
+& & \MakeLowercase{agcggccgctgcag} \\
+\hline
 \end{tabular*}
-}
+}{ }
 \end{table}
 
 \newpage
@@ -343,11 +335,11 @@ F312-F297 & BBK::P$_{cop}$::Green & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGAATTTCT
 }{%
 \hspace*{-4cm}
 \begin{tabular*}{\columnwidth}{@{}lll@{}}
-\toprule
+\hline
 \textbf{Oligo} & \textbf{Name} & \textbf{Sequence}
 \\
 \\
-\colrule
+\hline
 F404-F297 & BBK::P$_{czc}$::Green & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGggagggcgtctctgggtgtgtgctgaaaatggccaagacagtctatgtcccagaagatg}
 \\
 &::T$_{T7}$::BBK & \MakeLowercase{actgtcagattgccgagctTTGCCATGTGTATGTGGGAGACGCGACTACGGTGAGGGTCGGGTCCAGTAGCTTCGGCTACTG}
@@ -372,9 +364,9 @@ F310-F297 & BBK::P$_{pbr}$::Green & \MakeLowercase{GAATTCGCGGCCGCTTCTAGAGGGCGTCG
 \\
 & & \MakeLowercase{GGGGtactagtagcggccgctgcag}
 \\
-\botrule
+\hline
 \end{tabular*}
-}
+} { }
 \end{table}
 
 \begin{figure*} [h] 
