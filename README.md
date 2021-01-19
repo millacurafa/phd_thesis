@@ -4,7 +4,7 @@ Template for a LaTeX PhD UoE Thesis.
 Author: Magnus Hagdorn
 Edited: Felipe Millacura
 
- __Felipe: I added a general introduction and  a mixed discussion/conclusion sections, also changed the logo to the official and fixed some minor errors. I did add the Lay abstract section, and reference section with examples __
+*Felipe: I added a general introduction and  a mixed discussion/conclusion sections, also changed the logo to the official and fixed some minor errors. I did add the Lay abstract section, and reference section with examples*
 
 This template setup allows you to produce:
 * a thesis that adheres to the UoE regulations
