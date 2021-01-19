@@ -81,3 +81,57 @@
 \setlength{\textwidth}{14.55cm}
 \setlength{\textheight}{22.3cm}
 
+
+\newdimen\tablewd
+\newdimen\tablewidth
+\newdimen\captionwd
+\newbox\tempbox
+\newskip\tableleftskip%
+\newskip\tablerightskip%
+\newskip\tablecapleftskip%
+\newskip\tablecaprightskip%
+\newskip\tablefootleftskip%
+\newskip\tablefootrightskip%
+
+\def\toprule{\noalign{\ifnum0=`}\fi
+  \hrule \@height .5\p@
+  \hrule \@height 6\p@ \@width \z@
+  \futurelet \@tempa\@xhline}
+
+\def\colrule{\noalign{\ifnum0=`}\fi
+  \hrule \@height 3.5\p@ \@width \z@
+  \hrule \@height .5\p@
+  \hrule \@height 5\p@ \@width\z@
+  \futurelet \@tempa\@xhline}
+
+\def\botrule{\noalign{\ifnum0=`}\fi
+  \hrule \@height 3.25\p@ \@width \z@
+  \hrule \@height .5\p@
+  \hrule \@height 3.25\p@ \@width\z@
+  \futurelet \@tempa\@xhline}
+\long\def\tableparts#1#2#3{%%%%%%%%%%%%%%%%%%%%%%%%%%%%% #1-caption #2-body #3-footnote
+    \setbox\tempbox\vbox{#1}                          %% to calculate width caption
+    \addtocounter{table}{-1}                          %%
+    \settowidth{\global\tablewd}{\tablebodyfont#2}    %% \captionwd - caption of width
+    \tablewidth\hsize                                 %% \tablewd   - table width
+    \advance\tablewidth-\tablewd
+    \divide\tablewidth 2
+    \global\tableleftskip\tablewidth
+    \global\tablerightskip\tablewidth
+    \ifdim\captionwd>\hsize
+        \global\tablecapleftskip\tablewidth
+        \global\tablecaprightskip\tablewidth %plus2fill
+    \else
+        \global\tablecapleftskip\tablewidth  %plus2fill
+        \global\tablecaprightskip\tablewidth %plus2fill
+    \fi
+    \global\tablefootleftskip\tablewidth
+    \global\tablefootrightskip\tablewidth %plus2fill
+    {#1 \par}%
+    {\tablebodyfont #2\par}%
+    {\tablefootfont #3\par}%
+}
+
+\def\tablebodyfont{\fontfamily{\rmdefault}\fontsize{8}{9}\selectfont\leftskip\tableleftskip\rightskip\tablerightskip}
+\def\tablefootfont{\fontfamily{\rmdefault}\fontsize{7}{9}\selectfont\leftskip\tablefootleftskip \rightskip\tablefootrightskip}
+

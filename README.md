@@ -1,3 +1,5 @@
+Changes made to compile edthesis.tex are noted in PS_changes.md.
+
 Template for a LaTeX PhD UoE Thesis.
 ====================================
 
