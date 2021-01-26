@@ -1,0 +1,32 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(BioCircos)
+
+
+```
+```{r}
+tracklist = BioCircosTextTrack('myTextTrack', 'Some text', size = "2em", opacity = 0.5, 
+  x = -0.67, y = -0.5)
+```
+```{r}
+myGenome = list("CHR1" = 3928089,
+        "CHR2" = 2580084,
+        "pMOL30" = 233720,
+        "pMOL28" = 171459,
+        "pTP6" = 54344
+        )
+```
+
+```{r}
+
+
+BioCircos(genome = myGenome, genomeFillColor = "PuOr",
+  chrPad = 1, displayGenomeBorder = FALSE, 
+  genomeTicksLen = 2, genomeTicksTextSize = 0, genomeTicksScale = 1e+8,
+  genomeLabelTextSize = "9pt", genomeLabelDy = 0)
+
+
